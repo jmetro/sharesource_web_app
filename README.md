@@ -6,11 +6,13 @@
     ```
     cd path/to/sharesource_web_app/my-app; npm install
     ```
-
-3. Start your app
+3. Start backend app
+   [Sharesource backend](https://github.com/jmetro/sharesource_backend). Follow read me
+   
+4. Start your app
 
     ```
-    npm start
+    cd path/to/sharesource_web_app/my-app; npm start
     ```
 
 # sharesource
